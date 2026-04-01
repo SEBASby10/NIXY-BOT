@@ -211,10 +211,8 @@ cd && cd YukiBot-MD && rm -rf Sessions/Owner && npm start
 </details>
 
 ---
-### 🌼 Agradecimientos
-[![LUIS](https://github.com/LuisCheats.png?size=100)](https://github.com/LuisCheats) [![SEBAS](https://https://github.com/SEBASby10.png?size=100)](https://github.com/SEBASby10)
 
-### 💐 Propietario
-[![King](https://files.catbox.moe/xwpbdx.jpg?size=100)](https://github.com/SEBASby10)
-[![King](https://files.catbox.moe/qrlgdr.jpg?size=100)](https://github.com/LuisCheats)
+### 💐 Propietarios
+[![LUIS](https://github.com/LuisCheats.png?size=100)](https://github.com/LuisCheats)
+[![SEBAS](https://https://github.com/SEBASby10.png?size=100)](https://github.com/SEBASby10)
 
