@@ -4,7 +4,7 @@
 > **Este proyecto está en constante evolución. Estamos comprometidos en ofrecer a nuestra comunidad un Bot increíble. Te invitamos a instalarlo y para estar al tanto de todas las novedades. [¡Únete a nuestro nuevo canal!](https://whatsapp.com/channel/0029VbCSLsD2UPBQRYi7682K)**
 
 <p align="center"> 
-<img src="https://bot.stellarwa.xyz/files/cNYzK.gif" alt="NIXY-BOT" style="width: 75%; height: auto; max-width: 100px;">
+<img src="https://bot.stellarwa.xyz/files/cNYzK.gif" alt="Kaoruko-MD" style="width: 75%; height: auto; max-width: 100px;">
 
 <p align="center"> 
 <a href="#"><img title="NIXY-BOT" src="https://img.shields.io/badge/¡Disfruta de un Bot totalmente gratuito, con múltiples funciones y de código abierto! -purple?colorA=%239b33b0&colorB=%231c007b&style=for-the-badge"></a> 
@@ -14,7 +14,7 @@
 
 ## 🪾 Descripción 
 
-NIXY Bot es un bot de WhatsApp multifuncional basado en `baileys`. Este bot ofrece una variedad de características para mejorar tu experiencia en WhatsApp.
+Kaoruko-MD es un bot de WhatsApp multifuncional basado en `baileys`. Este bot ofrece una variedad de características para mejorar tu experiencia en WhatsApp.
 
 ---
 
@@ -42,12 +42,12 @@ Siempre usa la librería principal y oficial de Baileys.
 <summary><strong>🍒 Cloud</strong> — Shell</summary>
 
 ```bash
-git clone https://github.com/SEBASby10/NIXY-BOT.git
+git clone https://github.com/SEBASby10/Kaoruko-MD.git
 
 ```
 
 ```bash
-cd NIXY-BOT
+cd Kaoruko-MD
 ```
 
 ```bash
@@ -75,11 +75,11 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/SEBASby10/NIXY-BOT.git
+git clone https://github.com/SEBASby10/Kaoruko-MD.git
 ```
 
 ```bash
-cd NIXY-BOT
+cd Kaoruko-MD
 ```
 
 ```bash
@@ -101,7 +101,7 @@ npm start
 <details>
 <summary><strong>🍒 Comandos para tener mas tiempo activo</strong> — el Bot</summary>
 
-> *Ejecutar estos comandos dentro de la carpeta NIXY-BOT*
+> *Ejecutar estos comandos dentro de la carpeta Kaoruko-MD*
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ``` 
@@ -132,15 +132,15 @@ pm2 start index
 ### En caso de detenerse
 > _Si despues que ya instalastes tu bot y termux te salta en blanco, se fue tu internet o reiniciaste tu celular, solo realizaras estos pasos:_
 ```bash
-cd && cd NIXY-BOT && npm start
+cd && cd Kaoruko-MD && npm start
 ```
 ---
 
 ### Obtener nuevo inicio de Sessión 
-> *Detén el bot, haz click en el símbolo (ctrl) [default=z] usar la letra "z" + "ENTER" hasta que salga algo verdes similar a: `NIXY-BOT $`*
+> *Detén el bot, haz click en el símbolo (ctrl) [default=z] usar la letra "z" + "ENTER" hasta que salga algo verdes similar a: `Kaoruko-MD $`*
  
 ```bash 
-cd && cd NIXY-BOT && rm -rf Sessions/Owner && npm start
+cd && cd Kaoruko-MD && rm -rf Sessions/Owner && npm start
 ```
 </details>
 
