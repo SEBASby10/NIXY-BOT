@@ -1,4 +1,4 @@
-[![icon](https://files.catbox.moe/89mfkl.jpg)]
+[icon](https://files.catbox.moe/89mfkl.jpg)
 
 > [!NOTE]
 > **Este proyecto está en constante evolución. Estamos comprometidos en ofrecer a nuestra comunidad un Bot increíble. Te invitamos a instalarlo y para estar al tanto de todas las novedades. [¡Únete a nuestro nuevo canal!](https://whatsapp.com/channel/0029VbCSLsD2UPBQRYi7682K)**
