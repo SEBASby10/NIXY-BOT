@@ -7,12 +7,12 @@ global.botNumber = ''
 
 global.sessionName = 'Sessions/Owner'
 global.version = '^1.0 - Latest'
-global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ NEXY"
+global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝓚𝓪𝓸𝓻𝓾𝓴𝓸"
 global.links = {
 api: 'https://api.stellarwa.xyz',
-channel: "https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n",
-github: "https://github.com/iamDestroy/YukiBot-MD",
-gmail: "thekingdestroy507@gmail.com"
+canal: "https://whatsapp.com/channel/0029VbCSLsD2UPBQRYi7682K",
+github: "https://github.com/SEBASby10/Kaoruko-MD",
+gmail: "lopezgarciasebs12@gmail.com"
 }
 global.my = {
 ch: '120363426781015568@newsletter',

@@ -48,11 +48,11 @@ const log = {
   
 const { say } = cfonts
 console.log(chalk.magentaBright('\n❀ Iniciando...'))
-  say('Nexy', {
+  say('KAORUKO', {
   align: 'center',           
   gradient: ['red', 'blue'] 
 })
-  say('Made with love by Destroy', {
+  say('Made with love by SEBAS', {
   font: 'console',
   align: 'center',
   gradient: ['blue', 'magenta']
@@ -222,6 +222,7 @@ async function startBot() {
     try {
       m = messages[0]
       if (!m.message) return
+      await client.sendPresenceUpdate('composing', m.key.remoteJid)
       m.message = Object.keys(m.message)[0] === "ephemeralMessage" ? m.message.ephemeralMessage.message : m.message
       if (m.key && m.key.remoteJid === "status@broadcast") return
       if (!client.public && !m.key.fromMe && messages.type === "notify") return

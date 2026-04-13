@@ -14,9 +14,9 @@
     },
     "5214452773745@s.whatsapp.net": {
       "name": "☾☽ 𝗦𝝨𝝗𝝙𝗦 ☾☽",
-      "exp": 344,
-      "level": 5,
-      "usedcommands": 4,
+      "exp": 431,
+      "level": 8,
+      "usedcommands": 7,
       "pasatiempo": "",
       "description": "",
       "marry": "",
@@ -24,8 +24,8 @@
       "birth": "",
       "metadatos": null,
       "metadatos2": null,
-      "minxp": 127,
-      "maxxp": 202
+      "minxp": 426,
+      "maxxp": 575
     },
     "5216181691907@s.whatsapp.net": {
       "name": "Less",
@@ -42,6 +42,21 @@
     },
     "50765836410@s.whatsapp.net": {
       "name": "𝓛",
+      "exp": 28,
+      "level": 2,
+      "usedcommands": 1,
+      "pasatiempo": "",
+      "description": "",
+      "marry": "",
+      "genre": "",
+      "birth": "",
+      "metadatos": null,
+      "metadatos2": null,
+      "minxp": 13,
+      "maxxp": 34
+    },
+    "5216182306067@s.whatsapp.net": {
+      "name": "Javier",
       "exp": 0,
       "level": 0,
       "usedcommands": 0,
@@ -53,8 +68,21 @@
       "metadatos": null,
       "metadatos2": null
     },
-    "5216182306067@s.whatsapp.net": {
-      "name": "Javier",
+    "51963378900@s.whatsapp.net": {
+      "name": "Edd☆",
+      "exp": 0,
+      "level": 0,
+      "usedcommands": 0,
+      "pasatiempo": "",
+      "description": "",
+      "marry": "",
+      "genre": "",
+      "birth": "",
+      "metadatos": null,
+      "metadatos2": null
+    },
+    "5213343384323@s.whatsapp.net": {
+      "name": "ale",
       "exp": 0,
       "level": 0,
       "usedcommands": 0,
@@ -73,7 +101,7 @@
         "5214778582624@s.whatsapp.net": {
           "stats": {
             "2026-04-13": {
-              "msgs": 14,
+              "msgs": 23,
               "cmds": 0
             }
           },
@@ -105,12 +133,12 @@
         "5214452773745@s.whatsapp.net": {
           "stats": {
             "2026-04-13": {
-              "msgs": 7,
-              "cmds": 3
+              "msgs": 10,
+              "cmds": 6
             }
           },
-          "usedTime": "2026-04-13T05:46:25.135Z",
-          "lastCmd": 1776059185135,
+          "usedTime": "2026-04-13T16:01:50.250Z",
+          "lastCmd": 1776096110250,
           "coins": 6014,
           "bank": 0,
           "afk": -1,
@@ -120,7 +148,22 @@
         "50765836410@s.whatsapp.net": {
           "stats": {
             "2026-04-13": {
-              "msgs": 1,
+              "msgs": 2,
+              "cmds": 1
+            }
+          },
+          "usedTime": "2026-04-13T15:54:58.733Z",
+          "lastCmd": 1776095698733,
+          "coins": 0,
+          "bank": 0,
+          "afk": -1,
+          "afkReason": "",
+          "characters": []
+        },
+        "5213343384323@s.whatsapp.net": {
+          "stats": {
+            "2026-04-13": {
+              "msgs": 3,
               "cmds": 0
             }
           },
@@ -208,6 +251,38 @@
       "primaryBot": null,
       "antilinks": true,
       "rolls": {}
+    },
+    "120363405034150120@g.us": {
+      "users": {
+        "51963378900@s.whatsapp.net": {
+          "stats": {
+            "2026-04-13": {
+              "msgs": 1,
+              "cmds": 0
+            }
+          },
+          "usedTime": null,
+          "lastCmd": 0,
+          "coins": 0,
+          "bank": 0,
+          "afk": -1,
+          "afkReason": "",
+          "characters": []
+        }
+      },
+      "isBanned": false,
+      "welcome": false,
+      "goodbye": false,
+      "sWelcome": "",
+      "sGoodbye": "",
+      "nsfw": false,
+      "alerts": true,
+      "gacha": true,
+      "economy": true,
+      "adminonly": false,
+      "primaryBot": null,
+      "antilinks": true,
+      "rolls": {}
     }
   },
   "settings": {
@@ -219,7 +294,7 @@
         ".",
         "#"
       ],
-      "commandsejecut": 4,
+      "commandsejecut": 8,
       "id": "120363426781015568@newsletter",
       "nameid": "𝓚𝓪𝓸𝓻𝓾𝓴𝓸-𝓜𝓓",
       "type": "Owner",
